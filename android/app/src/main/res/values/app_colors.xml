@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Mesmo tom da variável CSS background (src/styles.css) para não piscar cinza entre a splash e o WebView. -->
+    <color name="app_background">#090d16</color>
+</resources>

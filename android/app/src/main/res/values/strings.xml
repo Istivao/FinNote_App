@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">FinNote</string>
+    <string name="title_activity_main">FinNote</string>
+    <string name="package_name">com.finnote.app</string>
+    <string name="custom_url_scheme">com.finnote.app</string>
+    <!-- Notificação fixa do GPS durante o treino de corrida (@capgo/background-geolocation). -->
+    <string name="capacitor_background_geolocation_notification_channel_name">Treino de corrida (GPS)</string>
+    <string name="capacitor_background_geolocation_notification_icon">drawable/ic_stat_finnote</string>
+</resources>
